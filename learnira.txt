@@ -1,0 +1,34 @@
+# Learnira
+
+>Brief history: Learnira started with the mission to provide quality education for the African child.We create tutorials in the STEM >courses to provide students with the opportunity to learn at their own pace.
+
+>Mission: Our mission is to provide quality education for the African child.
+
+>Vision: To be the no 1 online learning platform in africa.
+
+# The website will provide the following
+  i. Video + excersies
+  ii. peer learning i.e. interactivity
+  iii. Reward
+  iv. Performance measurement for any learner
+
+But in the future one of our milestone will be;
+** To involve machine learning to determine where a student should start learning when they come to the website; Don't worry abou this I will explain when we see. **
+Now, apart from the web design which we expect soonest, If u need us to employ somebody who is just going to be an employee to work with you in the development of the ii-iv then let me know fast
+
+Quick tour.
+Educator
+Animator
+Is video they secret to learning.
+gif for Hint. 
+Quick Quiz
+Ted Ed -- Lessons worth sharing
+Authur C Clarke 
+A teacher that can be replaced a by machine should be.
+If children have interest then education happens. 
+Educational Objectives - Sugata Mitra , Khan
+targets
+Education is an self organising system where learning is an emergent phenomenon???? 
+Storyboard.
+
+> "to do mathematics is to be, at once, touched by fire and bound by reason” <cite>Jordan Ellenberg</cite>

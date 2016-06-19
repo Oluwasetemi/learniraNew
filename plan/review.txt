@@ -1,0 +1,56 @@
+## Page 1 
+ - Mission: what is the difference between education and learning. Change the way learning is done and make it possible to learn contrary to our educational system that is full of craming and void of understanding. 
+ - the goal is to become every student's learning friend/assistant/companion.
+ - Vision: merge IT(IoT and Virtual Reality) and education for the African child.
+ - Focus - Our Strength
+  - Dynamic content production that symbolize the african learning. a case study is the african american learning culture that produced the american success presently.
+The way we curate videos is explosive and contagious that it will make you laugh and learn and invite a friend to learn alongside. 
+  - All Subject exercise to make learning process interesting - with various forms including games, text, puzzles, shapes exercise.
+
+  - Interactive and peer learning is key to learning in a population like africa.
+ 
+  - Making learning interesting by poking fun out of it. {example is 2go: while it first broke into the scene in Nigeria was due to the various ranking you could reach by always chatting. It was fun. }
+
+  - Prepare student for african exams incuding theory!
+
+  -  Slide learning - when we see learning as a process and not what we can just hop into and hop out. Fragements by fragements. Precepts upon precepts.Downloadable slides to sweeten the process of learning. 
+
+  - Newsletter to all registered learning.
+  - Our believe in the practical/doing STEM and not theoretical STEM in our country.
+
+## Page 2
+ - the meme/ slogan can be improved - "think I can learn it"
+
+## Page 3
+ - Nice Dashboard- Facebook / Twitter/ I.G /Medium integration   for Login and picture.
+ - Student 
+## Page 4 
+ - To make things easier for the programmer
+ - All materials should take a model arrangement. 
+ - Like the Algebra case -Introduction in text/Slide - Short video and practical destination of what student can gain when they master such content, even statistics in the federal exams. NB Analysis and Analytics is needed. "At the end of this learning you should be able to provide answers to this and this. "
+ sub topic 1 
+ sub topic 2
+
+OR  we can have a model designed to help access each sub topic well. Think and work on this.
+
+## Page 5
+ - Love the Sequence and series structure.
+ NB- we can have exercise as well for all the subject.
+
+
+## Page 6
+ - Progress Chart is work oo but i am willing to learn new things to help us with. D3.js and Chart.js
+
+## Page 7
+ - \Still thinking on the peer learning 
+
+## Page 8
+ - Lets create a slack or gitter or Trello team. and lets use skype to monitor progress. 
+
+## Page 9
+ - Take a look at how Ted Ed is helping learning with video , Khan Academy is a good model. Works of Sugata Mitra 
+
+See these Quotes I stumbled on by Authur C Clarke - "A teacher that can be replaced a by machine should be." and "If children have interest then education happens." 
+ Our fight is Children's interest and replacing teachers to challenge education to a new level in Nigeria and Africa. 
+
+Mode of Ppayment should be via Telecommunications service like Airtel and MTN and GLO. Its the new trend and making student to pay themselves makes it cool. as small as 50 naira or 100 naira for month.
