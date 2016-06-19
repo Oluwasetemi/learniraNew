@@ -22,6 +22,7 @@ Animator
 Is video they secret to learning.
 gif for Hint. 
 Quick Quiz
+gh-pages enabled
 Ted Ed -- Lessons worth sharing
 Authur C Clarke 
 A teacher that can be replaced a by machine should be.
@@ -31,4 +32,4 @@ targets
 Education is an self organising system where learning is an emergent phenomenon???? 
 Storyboard.
 
-> "to do mathematics is to be, at once, touched by fire and bound by reasonî <cite>Jordan Ellenberg</cite>
+> "to do mathematics is to be, at once, touched by fire and bound by reason‚Äù <cite>Jordan Ellenberg</cite>
