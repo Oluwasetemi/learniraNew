@@ -1,4 +1,4 @@
-# Learnira
+﻿# Learnira
 
 >Brief history: Learnira started with the mission to provide quality education for the African child.We create tutorials in the STEM >courses to provide students with the opportunity to learn at their own pace.
 
@@ -33,3 +33,19 @@ Education is an self organising system where learning is an emergent phenomenon?
 Storyboard.
 
 > "to do mathematics is to be, at once, touched by fire and bound by reason” <cite>Jordan Ellenberg</cite>
+
+>Every child deserves a champion – an adult who will never give up on them, who understands the power of connection and insists that they become the best that they can possibly be.
+Rita Pierson
+
+Real teaching is the analog act of taking someone by the hand and exploring a topic together. What makes a good teacher isn’t an encyclopedic knowledge of a topic. It’s the wisdom to use just enough of your knowledge to make the journey together interesting.- Steven Ward
+
+At first we considered letting the pedestrians define the walkways(sivers.org/walkways) by structuring the forum around how people actually used it. This approach has worked well for Gitter, Medium, Reddit, and Facebook, where feedback from our campers and usage statistics have driven virtually every design decision we’ve made.
+
+Labour of life-time and delibrative practice.
+
+"the most effective learning requires a well-defined task with an appropriate difficulty level for the particular individual, informative feedback, and opportunities for repetition and corrections of errors." (p. 20-21) The book Cognition in Practice: Mind, Mathematics, and Culture in Everyday Life is an interesting reference for this viewpoint.
+
+Anton Ego, says: "Not everyone can become a great artist, but a great artist can come from anywhere."
+
+maria montesstori
+montesstori education
