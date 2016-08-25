@@ -1,3 +1,12 @@
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    /* Needed for mobile WebKit */
+    -moz-box-sizing   : border-box;
+    /* Needed for Firefox */
+    box-sizing        : border-box;
+}
 /*General*/
 body {
     padding-top   : 70px;
@@ -190,6 +199,57 @@ cite::before {
     max-width  : 355px;
     margin     : 0 auto;
     padding-top: 0;
+}
+/*===============================
+      INFOBOX Section
+===============================*/
+#infobox {
+    background: #1C5C46;
+}
+#infobox-inner {
+    border     : none;
+    margin     : 0;
+    font-style : italic;
+    font-size  : 32px;
+    color      : white;
+    padding-top: 10px;
+    display    : block;
+    margin     : 1em 40px;
+}
+/*===============================
+      FOOTER
+===============================*/
+footer {
+    background    : #b6a57d;
+    padding-top   : 30px;
+    padding-bottom: 30px;
+    font-size     : 16px;
+    color         : #7b6c45;
+}
+footer a,
+footer a:active,
+footer a:visited {
+    text-decoration: none;
+    color          : #7b6c45;
+}
+footer a:hover {
+    text-decoration: none;
+    color          : #52472e;
+}
+footer h2 {
+    margin: 0 0 10px;
+}
+footer img {
+    width: 100px;
+    /*color: white;*/
+}
+footer ul {
+    list-style-type: none;
+    padding        : 30px 0 0;
+}
+.footer-icon {
+    font-size: 35px;
+    padding  : 10px;
 }
 /*===============================
       BUTTONS
