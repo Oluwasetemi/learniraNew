@@ -12,6 +12,7 @@ body {
     padding-top   : 70px;
     padding-bottom: 40px;
     color         : #5a5a5a;
+    font-family   : 'Ubuntu', sans-serif;
 }
 /*Logo */
 section {
@@ -26,6 +27,7 @@ a {
 }
 h1 {
     font-weight: 800;
+    font-family: 'Baloo Paaji', cursive;
 }
 .btn-extra-padding {
     padding-top   : 15px;
@@ -50,6 +52,7 @@ nav.navbar-default {
     color       : #fff;
     font-kerning: 3px;
     font-size   : 17px;
+    font-family : 'Roboto', sans-serif;
 }
 @keyframes movement {
     0% {
@@ -66,7 +69,7 @@ nav.navbar-default {
     animation    : movement 2s 3;
 }
 .navbar-brand {
-    font-family: 'Sanchez', serif;
+    font-family: 'Roboto', sans-serif;
 }
 /*.navbar-brand img {
     height : 20px;
@@ -95,7 +98,7 @@ nav.navbar {
 body,
 html {
     height     : 100%;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 .cover {
     padding-top    : 60px;
