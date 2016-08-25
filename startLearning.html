@@ -89,7 +89,65 @@ font-family: 'Ubuntu', sans-serif;  -->
 
     <!-- In-document CSS -->
     <style>
-      /* ... */
+      .topic {
+        /*width: 100px;*/
+        /*height: 100%;*/
+        /*position: fixed;*/
+        /*padding-left: 5px;*/
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-left: 20px;
+        margin-right: 10px;
+        background-color: rgb(235, 238, 235);
+      }
+
+      .content {
+        /*width: 100%;*/
+        /*height: 100%;*/
+        padding: 10px;
+        margin-left: 20px;
+        background-color: rgba(226, 244, 226, 0.95);
+      }
+
+      div.footer {
+        padding: auto;
+      }
+
+      .spinner {
+        width: 40px;
+        height: 40px;
+        background-color: #333;
+        margin: 100px auto;
+        -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
+        animation: sk-rotateplane 1.2s infinite ease-in-out;
+      }
+
+      @-webkit-keyframes sk-rotateplane {
+        0% {
+          -webkit-transform: perspective(120px)
+        }
+        50% {
+          -webkit-transform: perspective(120px) rotateY(180deg)
+        }
+        100% {
+          -webkit-transform: perspective(120px) rotateY(180deg) rotateX(180deg)
+        }
+      }
+
+      @keyframes sk-rotateplane {
+        0% {
+          transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+          -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg)
+        }
+        50% {
+          transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+          -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg)
+        }
+        100% {
+          transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+          -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+        }
+      }
     </style>
 
 
@@ -134,16 +192,53 @@ font-family: 'Ubuntu', sans-serif;  -->
     <section class="main">
       <div class="container">
         <div class="row">
-          <div class="col-md-4 topic">
-            <div class="maths">
-              h2.title{}
+          <h2 class="title">Welcome to our Learning center</h2>
+          <blockquote cite="http://">
+            Real teaching is the analog act of taking someone by the hand and exploring a topic together. What makes a good teacher isn’t an encyclopedic knowledge of a topic. It’s the wisdom to use just enough of your knowledge to make the journey together interesting.
+            <cite><strong> Steven Ward</strong></cite>
+          </blockquote>
+
+          <div class="col-md-3 topic">
+            <div class="">
+
+              <ul>
+                <li class="maths parent">Mathematics
+                  <ul class="math-child child">
+                    <li>Equations</li>
+                    <li id="set">Sets</li>
+                    <li class="surd">Surds</li>
+                    <li>Logarithms using tables</li>
+                    <li>Trigonometrics</li>
+                    <li>Sin rule </li>
+                    <li>Cosine rule</li>
+                  </ul>
+
+                </li>
+                <li class="wassce parent">WASSCE Mathematics Past Question
+                  <ul class="wassce-child child">
+                    <li>2014</li>
+                    <li>2015</li>
+                    <li>2016</li>
+                  </ul>
+
+                </li>
+                <li class="cowbell parent">Cowbell Mathematics Competition
+                  <ul class="cowbell-child child">
+                    <li>March, 2016</li>
+                  </ul>
+                </li>
+              </ul>
             </div>
             <div class="wassce"></div>
             <div class="cowbell"></div>
           </div>
-          <div class="col-md-8 content">
-
+          <div class="col-md-7 content">
+            <!-- <div class="spinner"></div> -->
           </div>
+
+          <blockquote cite="http://">
+            "to do mathematics is to be, at once, touched by fire and bound by reason” <cite>Jordan Ellenberg </cite>
+          </blockquote>
         </div>
       </div>
     </section>
