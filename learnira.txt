@@ -1,6 +1,8 @@
 ﻿# Learnira
 
->Brief history: Learnira started with the mission to provide quality education for the African child.We create tutorials in the STEM >courses to provide students with the opportunity to learn at their own pace.
+>Brief history: Learnira started with the mission to provide quality education for the African child.We create tutorials in the STEM 
+
+>courses to provide students with the opportunity to learn at their own pace.
 
 >Mission: Our mission is to provide quality education for the African child.
 
